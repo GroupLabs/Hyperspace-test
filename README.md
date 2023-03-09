@@ -9,7 +9,6 @@ Our goal is to let people come across AR experiences from anywhere.
 ```mermaid
 flowchart TD
   subgraph Map
-   direction TD
    Unity --> ios[ARKit]
    Unity --> android[ARCore] 
   end
