@@ -4,9 +4,9 @@ A cross-platform application that enables augmented reality experiences while mi
 
 Our goal is to let people come across AR experiences from anywhere.
 
-## Development
-
-```mermaid
-flowchart TD
-  Unity --> ios[ARKit]
-  Unity --> android[ARCore] 
+## Roadmap
+---
+### Milestone A: Image Tracking
+Objectives:
+1. Unity Foundations
+2. ARKit client + ARCore client

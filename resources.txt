@@ -1,5 +1,0 @@
-ARCore API reference:
-    https://developers.google.com/ar/reference
-
-Sample Applications:
-    https://developers.google.com/ar/develop/samples
