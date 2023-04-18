@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+unity/Hyperspace/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+unity/Hyperspace/Library/Bee/artifacts/Android/d8kzr/libil2cpp.so filter=lfs diff=lfs merge=lfs -text
+unity/Hyperspace/Library/Bee/artifacts/Android/il2cppOutput/build/armeabi-v7a/libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text
