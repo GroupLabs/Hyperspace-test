@@ -1,0 +1,35 @@
+# Unity generated #
+[Tt]emp/
+[Ll]ibrary/
+[Oo]bj/
+[Bb]uild/
+Assets/AssetStoreTools*
+
+# Visual Studio / MonoDevelop generated #
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln
+/*.user
+/*.unityproj
+/*.booproj
+
+# Gradle / Android Studio generated #
+build/
+/*/build/
+/*/production/
+/*/gradle/
+/*/local.properties
+/*/captures/
+/.externalNativeBuild
+
+# Rider generated #
+.idea/
+
+# Mac generated #
+*.DS_Store
+
+# Executables #
+*.so

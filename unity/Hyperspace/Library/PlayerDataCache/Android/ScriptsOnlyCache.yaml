@@ -37,7 +37,7 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.ARSubsystems.XRReferenceImage
   methodsToPreserve: []
   sceneClasses:
-    Assets/DataFiles/Scenes/FirstImgTracking.unity:
+    Assets/DataFiles/Scenes/Saadman_basic_image_tracking.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -46,47 +46,43 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 21
       Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
     - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
       Script: {instanceID: 0}
     - Class: 43
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 74
+    - Class: 65
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
-      Script: {instanceID: 0}
-    - Class: 91
-      Script: {instanceID: 0}
-    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1680}
+      Script: {instanceID: 1770}
     - Class: 114
-      Script: {instanceID: 3436}
+      Script: {instanceID: 3526}
     - Class: 114
-      Script: {instanceID: 3918}
+      Script: {instanceID: 4008}
     - Class: 114
-      Script: {instanceID: 4524}
+      Script: {instanceID: 4616}
     - Class: 114
-      Script: {instanceID: 4878}
+      Script: {instanceID: 4970}
     - Class: 114
-      Script: {instanceID: 6052}
+      Script: {instanceID: 6144}
     - Class: 114
-      Script: {instanceID: 6860}
+      Script: {instanceID: 6952}
     - Class: 114
-      Script: {instanceID: 7690}
+      Script: {instanceID: 7782}
     - Class: 115
-      Script: {instanceID: 0}
-    - Class: 136
-      Script: {instanceID: 0}
-    - Class: 137
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -591,6 +587,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.XR.ARFoundation.dll
     namespaceName: UnityEngine.XR.ARFoundation
     className: ARTrackedObjectManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Demo
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1131,13 +1133,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Demo
   platform: 13
   scenePathNames:
-  - Assets/DataFiles/Scenes/FirstImgTracking.unity
-  playerPath: /Users/siemdebesay/Desktop/Hyperspace/unity/Hyperspace/FirstImgTrackingBuild.apk
+  - Assets/DataFiles/Scenes/Saadman_basic_image_tracking.unity
+  playerPath: C:/Users/saadm/Documents/UnityProjects/Builds/mytest.apk

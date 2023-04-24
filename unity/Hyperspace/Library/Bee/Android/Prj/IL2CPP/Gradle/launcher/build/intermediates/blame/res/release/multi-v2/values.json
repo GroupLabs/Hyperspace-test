@@ -1,10 +1,37 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/siemdebesay/Desktop/Hyperspace/unity/Hyperspace/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "C:\\Users\\saadm\\Documents\\UnityProjects\\Hyperspace\\unity\\Hyperspace\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "/Users/siemdebesay/.gradle/caches/transforms-2/files-2.1/ae4e63aee2448ed4859dc95da47269f5/arcore_client/res/values/values.xml",
+                    "source": "C:\\Users\\saadm\\Documents\\UnityProjects\\Hyperspace\\unity\\Hyperspace\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,102",
+                        "endColumns": "45,65",
+                        "endOffsets": "98,165"
+                    },
+                    "to": {
+                        "startLines": "13,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "802,850",
+                        "endColumns": "47,67",
+                        "endOffsets": "845,913"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\saadm\\Documents\\UnityProjects\\Hyperspace\\unity\\Hyperspace\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,101,158,214,263,309",
+                        "endColumns": "45,56,55,48,45,46",
+                        "endOffsets": "96,153,209,258,304,351"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\saadm\\.gradle\\caches\\transforms-2\\files-2.1\\ae4e63aee2448ed4859dc95da47269f5\\arcore_client\\res\\values\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
@@ -21,34 +48,7 @@
                     }
                 },
                 {
-                    "source": "/Users/siemdebesay/Desktop/Hyperspace/unity/Hyperspace/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "53,99",
-                        "endColumns": "45,65",
-                        "endOffsets": "96,162"
-                    },
-                    "to": {
-                        "startLines": "13,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "802,850",
-                        "endColumns": "47,67",
-                        "endOffsets": "845,913"
-                    }
-                },
-                {
-                    "source": "/Users/siemdebesay/Desktop/Hyperspace/unity/Hyperspace/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/packaged_res/release/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,101,158,214,263,309",
-                        "endColumns": "45,56,55,48,45,46",
-                        "endOffsets": "96,153,209,258,304,351"
-                    }
-                },
-                {
-                    "source": "/Users/siemdebesay/Desktop/Hyperspace/unity/Hyperspace/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/src/main/res/values/styles.xml",
+                    "source": "C:\\Users\\saadm\\Documents\\UnityProjects\\Hyperspace\\unity\\Hyperspace\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",

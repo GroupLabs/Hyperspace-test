@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/DataFiles/Scenes/FirstImgTracking.unity
     guid: b2f8fec95336448afb044ddf187c39e6
+  - enabled: 1
+    path: Assets/DataFiles/Scenes/Saadman_basic_image_tracking.unity
+    guid: 29f6d4ae457114942ab7f8baeb33f95e
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 77ec014aa51b04c7987b0b6bce619b86, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: ffb822a7391cd4b0e92ab45208e2bd95, type: 2}
