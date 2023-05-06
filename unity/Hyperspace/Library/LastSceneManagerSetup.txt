@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/DataFiles/Scenes/Saadman_basic_image_tracking.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
